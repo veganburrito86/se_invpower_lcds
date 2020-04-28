@@ -6,7 +6,10 @@
  * 
  * Script to count all inventory and display ore lists, ingot lists, volume and mass information, and power information.
  * 
- * Name your LCD panels "invPanel ore", "invPanel ingots", or "invPanel power"
+ * Name your LCD panels "invPanel XXXXXX", replace "XXXXXX" with one of these options:
+ * 
+ * percent    |    orelist    |    ingotslist    |    ore    |    ingots    |    
+ * mass       |    power      |    storedpower   |
  * 
  * Cockpits are more complicated, use Argument as follows:
  * 
